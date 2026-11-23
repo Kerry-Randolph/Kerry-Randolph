@@ -4,7 +4,7 @@ software developer and musician in anchorage, alaska. around town i go by **kash
 
 more than 20 years of building and running software, from enterprise web operations at general electric to api platforms and full-stack web apps for small businesses. these days i'm building a mobile app from scratch, with ai coding agents as my team.
 
-## now: that's what's up!
+## now: mirror number nine
 
 a free app for locals, coming soon to google play. point your phone at a flyer on a community bulletin board, and the event goes straight into your calendar or off to a friend. every flyer scanned joins a shared list of what's on around town.
 
